@@ -37,7 +37,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: AlwinEsch/AlwinEsch.github.io
           publish_branch: gh-pages
           destination_dir: kodi-dev-kit
           publish_dir: "./xbmc/addons/kodi-dev-kit/docs/html"
@@ -46,7 +45,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: AlwinEsch/AlwinEsch.github.io
           publish_branch: gh-pages
           destination_dir: kodi-base
           publish_dir: "./docs/html"
