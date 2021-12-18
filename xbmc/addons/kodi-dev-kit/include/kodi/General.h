@@ -22,14 +22,19 @@ typedef struct kodi_version_t
 {
   /// Application name, normally 'Kodi'
   std::string compile_name;
+
   /// Major code version of Kodi
   int major;
+
   /// Minor code version of Kodi
   int minor;
+
   /// The Revision contains a id and the build date, e.g. 20170706-c6b22fe217-dirty
   std::string revision;
+
   /// The version canditate e.g. alpha, beta or release
   std::string tag;
+
   /// The revision of tag before
   std::string tag_revision;
 } kodi_version_t;
