@@ -7,9 +7,9 @@ name: Doxygen Action
 on:
   push:
     branches: [ master ]
-    paths:
-      - 'xbmc/addons/kodi-dev-kit/**'
-      - 'xbmc/interfaces/**'
+#    paths:
+#      - 'xbmc/addons/kodi-dev-kit/**'
+#      - 'xbmc/interfaces/**'
 
 jobs:
   build:
