@@ -36,7 +36,7 @@ jobs:
       - name: Deploy kodi-dev-kit
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: AlwinEsch/AlwinEsch.github.io
           publish_branch: master
           destination_dir: kodi-dev-kit
@@ -45,7 +45,7 @@ jobs:
       - name: Deploy Kodi Base
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: AlwinEsch/AlwinEsch.github.io
           publish_branch: master
           destination_dir: kodi-base
