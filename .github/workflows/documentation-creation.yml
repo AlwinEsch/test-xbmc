@@ -1,0 +1,52 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Doxygen Action
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - 'xbmc/addons/kodi-dev-kit/**'
+      - 'xbmc/interfaces/**'
+
+jobs:
+  build:
+    if: github.repository == 'AlwinEsch/test-xbmc'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.2
+        with:
+          fetch-depth: 0
+
+      - name: Doxygen Action kodi-dev-kit
+        uses: mattnotmitt/doxygen-action@v1.1.0
+        with:
+          doxyfile-path: "./Doxyfile"
+          working-directory: "./xbmc/addons/kodi-dev-kit/doxygen"
+
+      - name: Doxygen Action Kodi Base
+        uses: mattnotmitt/doxygen-action@v1.1.0
+        with:
+          doxyfile-path: "./Doxyfile.doxy"
+          working-directory: "./docs/doxygen"
+
+      - name: Deploy kodi-dev-kit
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          external_repository: AlwinEsch/AlwinEsch.github.io
+          publish_branch: master
+          destination_dir: kodi-dev-kit
+          publish_dir: "./xbmc/addons/kodi-dev-kit/docs/html"
+
+      - name: Deploy Kodi Base
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          external_repository: AlwinEsch/AlwinEsch.github.io
+          publish_branch: master
+          destination_dir: kodi-base
+          publish_dir: "./docs/html"
