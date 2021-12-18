@@ -1,0 +1,28 @@
+var group__cpp__kodi__addon__visualization___defs___visualization_track =
+[
+    [ "Value Help", "group__cpp__kodi__addon__visualization___defs___visualization_track___help.html", null ],
+    [ "kodi::addon::VisualizationTrack::SetTitle", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga54294c70e5c7d4e8edacbdde65a07ab3", null ],
+    [ "kodi::addon::VisualizationTrack::GetTitle", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gad24cf5c3350d1aea399172e88e351bc5", null ],
+    [ "kodi::addon::VisualizationTrack::SetArtist", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga5e75607d7b90b2fbd342203e0562530b", null ],
+    [ "kodi::addon::VisualizationTrack::GetArtist", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gaf72e7b021e2c5877f14ebd33c54a9dee", null ],
+    [ "kodi::addon::VisualizationTrack::SetAlbum", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga0b92a57fe710507ef937de56e12c6c88", null ],
+    [ "kodi::addon::VisualizationTrack::GetAlbum", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga44d0575f6c5a8f7e12a03de1b59d05c8", null ],
+    [ "kodi::addon::VisualizationTrack::SetAlbumArtist", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga71090416a4d71dfd72639badbcb0b112", null ],
+    [ "kodi::addon::VisualizationTrack::GetAlbumArtist", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga02b3fd400fed64bf2124b9bdcce4136d", null ],
+    [ "kodi::addon::VisualizationTrack::SetGenre", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gaf319c22917674b7f0c5584465b39c0c6", null ],
+    [ "kodi::addon::VisualizationTrack::GetGenre", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gaae4e5df485d924e1410cc4c859d81455", null ],
+    [ "kodi::addon::VisualizationTrack::SetDuration", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga2a8c7b8b61c091d2ae6763b123805f2a", null ],
+    [ "kodi::addon::VisualizationTrack::GetDuration", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga99c2eca8985fb3522ff6d815537da2ca", null ],
+    [ "kodi::addon::VisualizationTrack::SetTrack", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga0d08f3902fc7a7d7c9321b986cf09505", null ],
+    [ "kodi::addon::VisualizationTrack::GetTrack", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gae4ab98f56d54ab92a0230d66cf0a9055", null ],
+    [ "kodi::addon::VisualizationTrack::SetDisc", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gab182b5fe23194300ab9e8f884549e549", null ],
+    [ "kodi::addon::VisualizationTrack::GetDisc", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga00b0b46ded8db251c6937047df33ac2f", null ],
+    [ "kodi::addon::VisualizationTrack::SetYear", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gad248b0d121f5add96356c5e469ce983f", null ],
+    [ "kodi::addon::VisualizationTrack::GetYear", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga2db2a6f455cbf2cc0011da9326edae5f", null ],
+    [ "kodi::addon::VisualizationTrack::SetLyrics", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga303498a405847125d7da25275612045e", null ],
+    [ "kodi::addon::VisualizationTrack::GetLyrics", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gac1f717cfb8be8effe0fb50c9a121ece3", null ],
+    [ "kodi::addon::VisualizationTrack::SetRating", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#gad0195fec98c12836339be97684ee47f7", null ],
+    [ "kodi::addon::VisualizationTrack::GetRating", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga3a90c28fb1501523e660d51f2b44df40", null ],
+    [ "kodi::addon::VisualizationTrack::SetComment", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga172c10e306c608ed9687a06d065dcf7d", null ],
+    [ "kodi::addon::VisualizationTrack::GetComment", "group__cpp__kodi__addon__visualization___defs___visualization_track.html#ga78e9c5053028a80b6edb45d880bb3f3c", null ]
+];
