@@ -38,7 +38,7 @@ jobs:
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: AlwinEsch/AlwinEsch.github.io
-          publish_branch: master
+          publish_branch: gh-pages
           destination_dir: kodi-dev-kit
           publish_dir: "./xbmc/addons/kodi-dev-kit/docs/html"
 
@@ -47,6 +47,6 @@ jobs:
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: AlwinEsch/AlwinEsch.github.io
-          publish_branch: master
+          publish_branch: gh-pages
           destination_dir: kodi-base
           publish_dir: "./docs/html"
