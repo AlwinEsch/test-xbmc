@@ -28,7 +28,7 @@ namespace vfs
 
 //==============================================================================
 ///
-/// @defgroup cpp_kodi_vfs  Interface - kodi::vfs
+/// @defgroup cpp_kodi_vfs Interface - kodi::vfs
 /// @ingroup cpp
 /// @brief **Virtual filesystem functions**\n
 /// Offers classes and functions for access to the Virtual File Server (VFS)
