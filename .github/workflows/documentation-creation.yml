@@ -22,9 +22,8 @@ jobs:
           fetch-depth: 0
 
       - name: Extract branch name
-          shell: bash
-          run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-          id: extract_branch
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
 
       - name: Doxygen Action kodi-dev-kit
         uses: mattnotmitt/doxygen-action@v1.1.0
