@@ -27,8 +27,8 @@ jobs:
       - name: Set target dirs
         run: |
              mkdir ./build
-             sed -i 's/.*OUTPUT_DIRECTORY.*=.*/OUTPUT_DIRECTORY = ..\/..\/..\/..\/build\/kodi-dev-kit/' ./xbmc/addons/kodi-dev-kit/doxygen/Doxyfile
-             sed -i 's/.*OUTPUT_DIRECTORY.*=.*/OUTPUT_DIRECTORY = ..\/..\/build\/kodi-base/' ./docs/doxygen/Doxyfile.doxy
+             sed -i 's/.*HTML_OUTPUT.*=.*/HTML_OUTPUT = ..\/..\/..\/..\/build\/kodi-dev-kit/' ./xbmc/addons/kodi-dev-kit/doxygen/Doxyfile
+             sed -i 's/.*HTML_OUTPUT.*=.*/HTML_OUTPUT = ..\/..\/build\/kodi-base/' ./docs/doxygen/Doxyfile.doxy
 
       - name: Doxygen Action kodi-dev-kit
         uses: mattnotmitt/doxygen-action@v1.1.0
@@ -42,7 +42,7 @@ jobs:
           doxyfile-path: "./Doxyfile.doxy"
           working-directory: "./docs/doxygen"
 
-      - name: Deploy kodi-dev-kit
+      - name: Deploy docs
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
