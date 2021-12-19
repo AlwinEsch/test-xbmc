@@ -243,7 +243,7 @@ inline std::string ATTRIBUTE_HIDDEN URLEncode(const std::string& url)
 /// should show up instantly. By default, the DNS lookup tool will return an
 /// IP address if you give it a name (e.g. www.example.com)
 ///
-/// @param[in] hostName   The code of the message to get.
+/// @param[in] hostName The code of the message to get.
 /// @param[out] ipAddress Returned address
 /// @return true if successfull
 ///
