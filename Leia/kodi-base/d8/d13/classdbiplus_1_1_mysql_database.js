@@ -1,0 +1,28 @@
+var classdbiplus_1_1_mysql_database =
+[
+    [ "MysqlDatabase", "d8/d13/classdbiplus_1_1_mysql_database.html#a05651ee4fce8b9a11815608f10462b88", null ],
+    [ "~MysqlDatabase", "d8/d13/classdbiplus_1_1_mysql_database.html#a7d593c299663236842fd8b42b9e73556", null ],
+    [ "commit_transaction", "d8/d13/classdbiplus_1_1_mysql_database.html#a5c816d7e9c8cdd95f507285868eea281", null ],
+    [ "configure_connection", "d8/d13/classdbiplus_1_1_mysql_database.html#aabbcdbca80ddb6a90bb2455df7382ca8", null ],
+    [ "connect", "d8/d13/classdbiplus_1_1_mysql_database.html#a339c49f37157b25336cc2a5411765ef7", null ],
+    [ "copy", "d8/d13/classdbiplus_1_1_mysql_database.html#ab9d4e04b2aea984211fba2e7144284d8", null ],
+    [ "create", "d8/d13/classdbiplus_1_1_mysql_database.html#abe4807121b27bdaaa69383be331652b5", null ],
+    [ "CreateDataset", "d8/d13/classdbiplus_1_1_mysql_database.html#a2c6df4a51ee69404b6d4e0a80146ad57", null ],
+    [ "disconnect", "d8/d13/classdbiplus_1_1_mysql_database.html#ae79a4c74e9eafd8e6bc588c3c93b84de", null ],
+    [ "drop", "d8/d13/classdbiplus_1_1_mysql_database.html#ac6e8f7f7b433712f2a4c6d8eb1e96eb6", null ],
+    [ "drop_analytics", "d8/d13/classdbiplus_1_1_mysql_database.html#a7e2a8ee0d39862127516db69228476b8", null ],
+    [ "exists", "d8/d13/classdbiplus_1_1_mysql_database.html#a50f2688a6ae578a06e0af797c32db3a8", null ],
+    [ "getErrorMsg", "d8/d13/classdbiplus_1_1_mysql_database.html#a7eb69ff563b121eaeb03be494e61e4c4", null ],
+    [ "getHandle", "d8/d13/classdbiplus_1_1_mysql_database.html#a4622cf4199b3e7fd380af8a0f6e97510", null ],
+    [ "in_transaction", "d8/d13/classdbiplus_1_1_mysql_database.html#a55cf17e7030b8cbb219f849842a159fa", null ],
+    [ "nextid", "d8/d13/classdbiplus_1_1_mysql_database.html#a7bfd70d91acfa3439f98d0be556b1360", null ],
+    [ "query_with_reconnect", "d8/d13/classdbiplus_1_1_mysql_database.html#a768265883440e38048c5699eca010700", null ],
+    [ "rollback_transaction", "d8/d13/classdbiplus_1_1_mysql_database.html#a2875e627f2e93573fc6ed2829a39acef", null ],
+    [ "setErr", "d8/d13/classdbiplus_1_1_mysql_database.html#aeb6a4fbfb947f01aa3c9b25974671e31", null ],
+    [ "start_transaction", "d8/d13/classdbiplus_1_1_mysql_database.html#a05c3141d02ac239d0b2e55918f12cfaa", null ],
+    [ "status", "d8/d13/classdbiplus_1_1_mysql_database.html#acc0070610472a0d8162e7bb14b385061", null ],
+    [ "vprepare", "d8/d13/classdbiplus_1_1_mysql_database.html#a8cb5d0c5a7ae5498448d7970d26eedd7", null ],
+    [ "_in_transaction", "d8/d13/classdbiplus_1_1_mysql_database.html#af36566931b452db040b4058312262ef0", null ],
+    [ "conn", "d8/d13/classdbiplus_1_1_mysql_database.html#a6937552a2bbd5c7f56befa0f37a10806", null ],
+    [ "last_err", "d8/d13/classdbiplus_1_1_mysql_database.html#a20f042773ac2e2adc74b006391187bd4", null ]
+];

@@ -1,0 +1,25 @@
+var class_p_v_r_1_1_c_p_v_r_database =
+[
+    [ "CPVRDatabase", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a42d804e2eea2fb53005a2990f0556c53", null ],
+    [ "~CPVRDatabase", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#aea5057d387544db096a0dbad3392ca46", null ],
+    [ "Close", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a371144c571c843455a329329d65b30f2", null ],
+    [ "Delete", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a0f81ece69082dd95fc67d690f4739ee0", null ],
+    [ "Delete", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a98161992e9a849cf0643d3d8e13a412a", null ],
+    [ "Delete", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a78b88bb4846b7328ce80f35589a65e0e", null ],
+    [ "DeleteChannelGroups", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a9ca651e9a0c60b21b03d4724465cfcbd", null ],
+    [ "DeleteChannels", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#ad7215d9226fe046b6f6e0ead965a8c28", null ],
+    [ "DeleteClients", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a94902c6f74e3ac9bf9ba6ace13058778", null ],
+    [ "Get", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#ab29b86e72e9516d85cd99e87ac83c727", null ],
+    [ "Get", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#aa14cac82a56bfff43ea2665498e19e7c", null ],
+    [ "Get", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#af29f4bee107658281e45afbf6a90d7fc", null ],
+    [ "GetBaseDBName", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a3289fda5a39a3c43f515a718f19c6edb", null ],
+    [ "GetPriority", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#aa7d510b03c7cc8360d389b341143832f", null ],
+    [ "GetSchemaVersion", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a85cb5639268e2129dcbb45fd27ea112a", null ],
+    [ "Open", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a348203df58e211f01ebbad915dd9e82f", null ],
+    [ "Persist", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a6b2f5bf0883ba5efc36cd64477fe9a49", null ],
+    [ "Persist", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#ad3a2374b18df4b102c99a5614ae8c018", null ],
+    [ "Persist", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a2255949ccba3dd43c5e2c64b0676be41", null ],
+    [ "ResetEPG", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#ae2297b13c854cb45e8e2f41fc925bc6a", null ],
+    [ "UpdateLastWatched", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a643a1557ba9c8b81e7e438d7509fe48f", null ],
+    [ "UpdateLastWatched", "df/dd6/class_p_v_r_1_1_c_p_v_r_database.html#a0b8be43dcaf31d31f9e9c4b280731991", null ]
+];

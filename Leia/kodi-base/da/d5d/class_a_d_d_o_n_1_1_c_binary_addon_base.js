@@ -1,0 +1,28 @@
+var class_a_d_d_o_n_1_1_c_binary_addon_base =
+[
+    [ "CBinaryAddonBase", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a030b7214ab0cf70201bfb3e4646c8137", null ],
+    [ "Art", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a0a1bc4bd80318c3987dda967dec4b1e6", null ],
+    [ "Author", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a4727140a8e4b5cda0a0b25e2019bda2c", null ],
+    [ "ChangeLog", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#af915b52eeb4a48f54977c3757e6d463b", null ],
+    [ "Create", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a48f35c204ced52166e56269aba3b37ba", null ],
+    [ "Description", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a8f09e13b446e7ae9bad0334574797b6e", null ],
+    [ "Disclaimer", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a9272bb32266f6ec4deadfed4927d2a8d", null ],
+    [ "GetActiveAddon", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a54b01d980a30af88ab6fdb75107809e2", null ],
+    [ "GetAddon", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#ac0c519dbee6b0d219ab1b65534a47465", null ],
+    [ "Icon", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a777b65fb800ef9252a26188b1ca51224", null ],
+    [ "ID", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a4f3bbc8bf91fdae5b55040f06a6f9ea7", null ],
+    [ "IsType", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#ac2a3a91b5a795313b6726fae8babbba0", null ],
+    [ "MainLibName", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#acaedeb691d8d0742b269c1de12ccf246", null ],
+    [ "MainType", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a4ccaafedcb2fa1a0521bd9bf54ce0da0", null ],
+    [ "MeetsVersion", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#adc7e4a2ad699b3604e00030bf74f88bf", null ],
+    [ "MinVersion", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a2b99dcbf66d13968ad2f99172d1a099c", null ],
+    [ "Name", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a296893e1ce31c7cc98ad7a3c26f7cba9", null ],
+    [ "Path", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a4a3c71cb7831888bf49ba7f860886956", null ],
+    [ "ProvidesSeveralSubContents", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#ad69a6b9114e501e186457cad74a58409", null ],
+    [ "ProvidesSubContent", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a5ac66c3015f255dd39713d9f20cd4daf", null ],
+    [ "ReleaseAddon", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#abda2a706bd27718258b99d979853c78a", null ],
+    [ "Summary", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a8af44466ac163feb8169d9f7e6d8ae93", null ],
+    [ "Type", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#a2be111f002cb823bcdcc76d16ae1dc24", null ],
+    [ "Types", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#ad4e688cb75625fcaef50b65aeb051aeb", null ],
+    [ "Version", "da/d5d/class_a_d_d_o_n_1_1_c_binary_addon_base.html#ac8e6dc93e2c86067ac053b68651e8c1e", null ]
+];

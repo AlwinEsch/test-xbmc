@@ -1,0 +1,28 @@
+var classkodi_1_1addon_1_1_c_instance_v_f_s =
+[
+    [ "CVFSCallbacks", "d9/d67/classkodi_1_1addon_1_1_c_instance_v_f_s_1_1_c_v_f_s_callbacks.html", "d9/d67/classkodi_1_1addon_1_1_c_instance_v_f_s_1_1_c_v_f_s_callbacks" ],
+    [ "CInstanceVFS", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a6657d0f93ce26567c2c768f5d8311756", null ],
+    [ "~CInstanceVFS", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#aa9148332f3098985e06ce78bacd876c4", null ],
+    [ "ClearOutIdle", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#aa3c25da5b3498829f19fbeae391fbf31", null ],
+    [ "Close", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a33006eb983f344e594975162ce54a204", null ],
+    [ "ContainsFiles", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a1a9a937cbb5666e46abaa0b14456140f", null ],
+    [ "CreateDirectory", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a8f29ac03859a20c60591c7db476aa703", null ],
+    [ "Delete", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#af23d52c6eb046827e42f1365695847ae", null ],
+    [ "DirectoryExists", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a56b5015f5431e161e7ab2308197a3bcb", null ],
+    [ "DisconnectAll", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a9e06e42c142225e0d68e0d3ec16bbe0c", null ],
+    [ "Exists", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#aee0ad20560114e7b23429e16363ca0fa", null ],
+    [ "GetChunkSize", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#ad0e69f2a5472703914c55244a62d0b18", null ],
+    [ "GetDirectory", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a6fca8f9ff6b7897333e4ccea4fdcc136", null ],
+    [ "GetLength", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a123e995705b611cb7199cde78bd28928", null ],
+    [ "GetPosition", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#ae0d5197ded605ee860b5e5e5412b869d", null ],
+    [ "IoControl", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a2992be9d17a9bc189f752b38fb4b4ff1", null ],
+    [ "Open", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a1a87c587ecd47bcad874db3bc85217cc", null ],
+    [ "OpenForWrite", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#af16c430cc4c00a2a08ac845a452eae9a", null ],
+    [ "Read", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a8b7afc0c856bd590534e2ff89edda970", null ],
+    [ "RemoveDirectory", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a995ee2c12868efd5981a76ca3531ac55", null ],
+    [ "Rename", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a3737f87920b3a137d1587ea9dd23297b", null ],
+    [ "Seek", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#ae49758622544ee94a6b9279f176a4e49", null ],
+    [ "Stat", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a35fd981857aa031ed29923a12c918482", null ],
+    [ "Truncate", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#ae1f1fa1f579ba46000e7007035c9cf46", null ],
+    [ "Write", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html#a919873893a933f70de902813fa8f35d7", null ]
+];

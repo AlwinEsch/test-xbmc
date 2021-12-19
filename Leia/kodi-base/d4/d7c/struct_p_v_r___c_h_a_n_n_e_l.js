@@ -1,0 +1,12 @@
+var struct_p_v_r___c_h_a_n_n_e_l =
+[
+    [ "bIsHidden", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#a9b4db0deb1dc91f644b9accd4e09cedb", null ],
+    [ "bIsRadio", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#aa9cb33ea6eebfc3e3d2ee967781b3aaf", null ],
+    [ "iChannelNumber", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#add445cf057e104c04dda413f29dbb268", null ],
+    [ "iEncryptionSystem", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#adef9e2c8d72dbefa94694f7760eab215", null ],
+    [ "iSubChannelNumber", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#a1374b962d83c3c9e5d0b894c2b1dcf3c", null ],
+    [ "iUniqueId", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#afee4e753bc28645a646a2f5a4077d9e1", null ],
+    [ "strChannelName", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#a8fa563639df425f3127dd4ffd97b25f2", null ],
+    [ "strIconPath", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#a342ca38235f2a5368d6252bfb6dba975", null ],
+    [ "strInputFormat", "d4/d7c/struct_p_v_r___c_h_a_n_n_e_l.html#a90ff837d09776f523f69dda3858f9e57", null ]
+];

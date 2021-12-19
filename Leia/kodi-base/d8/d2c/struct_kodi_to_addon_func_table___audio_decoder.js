@@ -1,0 +1,25 @@
+var struct_kodi_to_addon_func_table___audio_decoder =
+[
+    [ "bool", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a3da05f8820ddda1b2f4f9377594d3f00", null ],
+    [ "bool", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a22a15f1ad45687a220553f0b1f866ac9", null ],
+    [ "int", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#aa8464ceb4e68c9359c817351dafa7230", null ],
+    [ "int", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#ad5b1e7cc76e3083aea8df77ade1f3c9a", null ],
+    [ "int64_t", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a6882f77730e5614162aa4aeb957f6f16", null ],
+    [ "actualsize", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a44979ef53945dd8f65d6f033af71e357", null ],
+    [ "addonInstance", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#ac431590fc786d679cd20d3d1fce99476", null ],
+    [ "artist", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a0df008bc240aee4d22ce81a4b6d0acd8", null ],
+    [ "bitrate", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a9e0673758ab3367978c3661d2341d977", null ],
+    [ "bitspersample", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#ac8589832f7ba3acbc02a4ea5436e78db", null ],
+    [ "buffer", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a48d854c8048c9e0a194c5ac1c27c1204", null ],
+    [ "channels", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#af1cbe0bb9dc467e56ac5585a418f3201", null ],
+    [ "file", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#af75ee7bd06d82b4d17ff73417fa68a42", null ],
+    [ "filecache", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a5411f9223fe3a5d4ca034ce2e3fa8448", null ],
+    [ "format", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a49d32683ee6d97b7ef742b576b48f407", null ],
+    [ "info", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#ab047aa4aebc993c0e2112d92e9692206", null ],
+    [ "length", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#ac6c88635accdf83eec1f3fcdde251152", null ],
+    [ "samplerate", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a4ed5fcce5e05184686864bdffa167a77", null ],
+    [ "size", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#ad2a081062da141895e638e7dc6efac31", null ],
+    [ "time", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a53d72502da6bfc9053b9cb6bbb2af185", null ],
+    [ "title", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a7874b91a37909c6abc803bf357399f5a", null ],
+    [ "totaltime", "d8/d2c/struct_kodi_to_addon_func_table___audio_decoder.html#a38414e8825932a17c74d73b9b27012a2", null ]
+];

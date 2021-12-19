@@ -1,0 +1,25 @@
+var class_p_v_r_1_1_c_p_v_r_epg_channel_data =
+[
+    [ "CPVREpgChannelData", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a088ffd23a8bd8bd68e4132a5fc2e3ae3", null ],
+    [ "CPVREpgChannelData", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#af9ce49dfcd30decab7b1591e9313f823", null ],
+    [ "CPVREpgChannelData", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#afcf41cf9094eb2d91e011ee32e3c3676", null ],
+    [ "ChannelId", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a9e555f41ec04e15219744319b0148098", null ],
+    [ "ChannelName", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#adfd060402989b1feb16cfe177303c284", null ],
+    [ "ClientId", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#ae83fab0a6c839b2026fd89454f00d66a", null ],
+    [ "IconPath", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a468319aecc09e90fdacf8755ee19845b", null ],
+    [ "IsEPGEnabled", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a9de72671dd36747ed8d9b415c112e04a", null ],
+    [ "IsHidden", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#af13bac333e95de6b6508385465ca5dbe", null ],
+    [ "IsLocked", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#ace67d66f58b8f714bb9976f44ba73ac7", null ],
+    [ "IsRadio", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a0d7dee357f35e610099dfc0d53b83e17", null ],
+    [ "LastWatched", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a107be877509283097c30fd66ae381df7", null ],
+    [ "SetChannelId", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#af44a98302cb80d0616a104344caae062", null ],
+    [ "SetChannelName", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a77a42386b4fd51ca76adca8d58b48288", null ],
+    [ "SetEPGEnabled", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a6831bf8af2c6257d79b673225e27a892", null ],
+    [ "SetHidden", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a532e53dc00285cc344c76d904fbb2fd7", null ],
+    [ "SetIconPath", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a3841ff5342bfa3712b5e3d84fac1b7a7", null ],
+    [ "SetLastWatched", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a81e4e57591cf5cf781d7429643d5c4f6", null ],
+    [ "SetLocked", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a4531615e0c3a21e7778fda818ac9f00c", null ],
+    [ "SetSortableChannelNumber", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#a65a7b26356817357ee9fc6eec717771a", null ],
+    [ "SortableChannelNumber", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#ad64e1e7da75d2b83ddcc88eabbd3f68e", null ],
+    [ "UniqueClientChannelId", "de/d0e/class_p_v_r_1_1_c_p_v_r_epg_channel_data.html#ae8cf68abe2bf485f53a539b2c10c1379", null ]
+];

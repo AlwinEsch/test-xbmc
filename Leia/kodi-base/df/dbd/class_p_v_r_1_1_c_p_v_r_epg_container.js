@@ -1,0 +1,28 @@
+var class_p_v_r_1_1_c_p_v_r_epg_container =
+[
+    [ "CPVREpgContainer", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#adbe56ffbdc9dcffab2d95c89d5f30c2a", null ],
+    [ "~CPVREpgContainer", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#ab12e1e01e3e4d907b5bd6bf6622bb29e", null ],
+    [ "Clear", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a2d5a5062ee553fa6bda58f473dc4873f", null ],
+    [ "CreateChannelEpg", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a5719ee5f38665633280352e0d26bae2f", null ],
+    [ "DeleteEpg", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a17b401779f660519e1be6a6edec2d2ae", null ],
+    [ "GetAllTags", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#af9cf1793bc748a846e48d784248a1e25", null ],
+    [ "GetByChannelUid", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a78172c6b582ce6263e6ddf7c3c171d3d", null ],
+    [ "GetById", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a4cad0f7f6806946b49196bc3179c883c", null ],
+    [ "GetEpgDatabase", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#ac341ca2813ec2324ade60cde43b79d2a", null ],
+    [ "GetFirstEPGDate", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a5086a0504309d02671c629b2ca91315a", null ],
+    [ "GetFutureDaysToDisplay", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a4d7415388cfa95077258029703733e34", null ],
+    [ "GetLastEPGDate", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a33c096500ac63c163da4735a63f2d091", null ],
+    [ "GetPastDaysToDisplay", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a8c82fdf834224ed67b58b4d59bf7fd50", null ],
+    [ "GetTagById", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a291400777651c41b837a9262fdce5a5f", null ],
+    [ "IgnoreDB", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a607d6dc3d11ef6609f419880c0212a8d", null ],
+    [ "IsStarted", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a3dd2fbc2bac97850b245c8437e6e2a37", null ],
+    [ "Notify", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#aa103f3968d1d376432191503f0d9ecb1", null ],
+    [ "OnPlaybackStarted", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#afab1c4284b7f9dfb20f48a9ba78cd3d6", null ],
+    [ "OnPlaybackStopped", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a136fc43041951f108abcf7523d83c66c", null ],
+    [ "SetHasPendingUpdates", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a412dc216f6df1ea411395c701e2c1ebd", null ],
+    [ "Start", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a7f4e55d5077069e2a4c0d8d130bfd82d", null ],
+    [ "Stop", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#ac70ee7f1b4769fbf635cd08cd5af1c16", null ],
+    [ "UpdateFromClient", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a0f9895e8a9f1f653be42a7aac6430cde", null ],
+    [ "UpdateRequest", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#af4b048e22e190cb15c2204b6b57a0eee", null ],
+    [ "CPVREpgDatabase", "df/dbd/class_p_v_r_1_1_c_p_v_r_epg_container.html#a3168f12a8c4d688b5c5fa61cfd1dd47c", null ]
+];

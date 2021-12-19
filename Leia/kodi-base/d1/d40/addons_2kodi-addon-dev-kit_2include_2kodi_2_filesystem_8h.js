@@ -1,0 +1,58 @@
+var addons_2kodi_addon_dev_kit_2include_2kodi_2_filesystem_8h =
+[
+    [ "VFSProperty", "da/ddd/struct_v_f_s_property.html", "da/ddd/struct_v_f_s_property" ],
+    [ "VFSDirEntry", "d5/d6a/struct_v_f_s_dir_entry.html", "d5/d6a/struct_v_f_s_dir_entry" ],
+    [ "AddonToKodiFuncTable_kodi_filesystem", "df/d9e/struct_addon_to_kodi_func_table__kodi__filesystem.html", "df/d9e/struct_addon_to_kodi_func_table__kodi__filesystem" ],
+    [ "kodi::vfs::CDirEntry", "d0/d1d/classkodi_1_1vfs_1_1_c_dir_entry.html", "d0/d1d/classkodi_1_1vfs_1_1_c_dir_entry" ],
+    [ "kodi::vfs::CFile", "d0/d89/classkodi_1_1vfs_1_1_c_file.html", "d0/d89/classkodi_1_1vfs_1_1_c_file" ],
+    [ "__stat64", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#a4d284b7e68f051cef7ba92aa96dcfc50", null ],
+    [ "S_ISDIR", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#a3746cdc5aac871e6f6504fbcbd29ef1d", null ],
+    [ "S_ISLNK", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#a765eef536bcb3bd7bacdd675dc2fba13", null ],
+    [ "AddonToKodiFuncTable_kodi_filesystem", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#a44d8040ce21f806beca52ecabcb4306c", null ],
+    [ "CURLOptiontype", "d0/da1/group__cpp__kodi__vfs___defs.html#gaa80c21210dddefb6dd5667294476e3f7", null ],
+    [ "FilePropertyTypes", "d0/da1/group__cpp__kodi__vfs___defs.html#gae4849db32c89283ead99e896edd41d21", null ],
+    [ "OpenFileFlags", "d0/da1/group__cpp__kodi__vfs___defs.html#ga9b3e132791d0ed8e27f1fb2bd035b121", null ],
+    [ "CURLOptiontype", "d0/da1/group__cpp__kodi__vfs___defs.html#ga8fd8d9cf7b1dd293423b7194ff86d6a9", [
+      [ "ADDON_CURL_OPTION_OPTION", "d0/da1/group__cpp__kodi__vfs___defs.html#gga8fd8d9cf7b1dd293423b7194ff86d6a9a97988273eb8b1940e630d2af6bd85244", null ],
+      [ "ADDON_CURL_OPTION_PROTOCOL", "d0/da1/group__cpp__kodi__vfs___defs.html#gga8fd8d9cf7b1dd293423b7194ff86d6a9a34c8dcfdf540f7c1c6da9f4121e53ea4", null ],
+      [ "ADDON_CURL_OPTION_CREDENTIALS", "d0/da1/group__cpp__kodi__vfs___defs.html#gga8fd8d9cf7b1dd293423b7194ff86d6a9add256095bd64635e30866a85d14a8b34", null ],
+      [ "ADDON_CURL_OPTION_HEADER", "d0/da1/group__cpp__kodi__vfs___defs.html#gga8fd8d9cf7b1dd293423b7194ff86d6a9a9f87e76324084670e3eaa129b772a812", null ]
+    ] ],
+    [ "FilePropertyTypes", "d0/da1/group__cpp__kodi__vfs___defs.html#ga48e8218ccc16c09e02390cc14901b583", [
+      [ "ADDON_FILE_PROPERTY_RESPONSE_PROTOCOL", "d0/da1/group__cpp__kodi__vfs___defs.html#gga48e8218ccc16c09e02390cc14901b583ab82137f3d92b526ff14337f6e8577a61", null ],
+      [ "ADDON_FILE_PROPERTY_RESPONSE_HEADER", "d0/da1/group__cpp__kodi__vfs___defs.html#gga48e8218ccc16c09e02390cc14901b583a921a5b4e6e22be10a258cc733fa465e6", null ],
+      [ "ADDON_FILE_PROPERTY_CONTENT_TYPE", "d0/da1/group__cpp__kodi__vfs___defs.html#gga48e8218ccc16c09e02390cc14901b583a26126f6a6b2d31c28d4b12d03e0daa2c", null ],
+      [ "ADDON_FILE_PROPERTY_CONTENT_CHARSET", "d0/da1/group__cpp__kodi__vfs___defs.html#gga48e8218ccc16c09e02390cc14901b583a8c73dc333536874af0c736910e4b9484", null ],
+      [ "ADDON_FILE_PROPERTY_MIME_TYPE", "d0/da1/group__cpp__kodi__vfs___defs.html#gga48e8218ccc16c09e02390cc14901b583a8cfb2a01e60439b55855c66208ae7a2b", null ],
+      [ "ADDON_FILE_PROPERTY_EFFECTIVE_URL", "d0/da1/group__cpp__kodi__vfs___defs.html#gga48e8218ccc16c09e02390cc14901b583a4313299f5b3ebcfa742f966476cd6d97", null ]
+    ] ],
+    [ "OpenFileFlags", "d0/da1/group__cpp__kodi__vfs___defs.html#ga0f3cb31b9b23debe1fc0d5a47bfbb149", [
+      [ "READ_TRUNCATED", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149a736ecac673f5d20033e9b3fb1f1c072d", null ],
+      [ "READ_CHUNKED", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149acce42704eea3714240c41933681dc85a", null ],
+      [ "READ_CACHED", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149aa0785bb4f2786c4644f61f2bc7d1fd1a", null ],
+      [ "READ_NO_CACHE", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149a0117d00cee180a144993f511596b3284", null ],
+      [ "READ_BITRATE", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149aecbbd43a4bbd7f13cb97153d189e0b6c", null ],
+      [ "READ_MULTI_STREAM", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149a2356de52da5efa28928870c6dcc1bb72", null ],
+      [ "READ_AUDIO_VIDEO", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149ae86a34d876dbc5ea76a647535ba8cebe", null ],
+      [ "READ_AFTER_WRITE", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149a99026c18c02ce8d720936b1f2a6cb74a", null ],
+      [ "READ_REOPEN", "d0/da1/group__cpp__kodi__vfs___defs.html#gga0f3cb31b9b23debe1fc0d5a47bfbb149a116483eace1c9338615a1ae348fbe106", null ]
+    ] ],
+    [ "CopyFile", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga1aa70febe1df4d75b99dfe91f6d68881", null ],
+    [ "CreateDirectory", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga460ba0ff6f9b5c736ed5267a2b9e1f6d", null ],
+    [ "DeleteFile", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga5c2686614c3508ecda78609725f123ad", null ],
+    [ "DirectoryExists", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#gac966dda71c24315123d968e542f7f7d5", null ],
+    [ "FileExists", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga0798cbafda16704e211763e4f76b997b", null ],
+    [ "GetCacheThumbName", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga8ad60f936581e2a88678b4887c4c2115", null ],
+    [ "GetChunkSize", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga09e1c44942b50e4cd897774e91efde89", null ],
+    [ "GetDirectory", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga1c005a636b4eb628e206b0af551ae90e", null ],
+    [ "GetDirectoryName", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga5dba5415b439919e066fc0fbd9e168e4", null ],
+    [ "GetFileMD5", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga39cfce74cc463a14d457385b423f5cb3", null ],
+    [ "GetFileName", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga32a9ca83221508e6289056042cae07d2", null ],
+    [ "MakeLegalFileName", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga857b795585d7268e85975850144adad7", null ],
+    [ "MakeLegalPath", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#gab053f177a461b97666f395d51d9edd05", null ],
+    [ "RemoveDirectory", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga417b4e3e6216e6446264dc3d8a58839e", null ],
+    [ "RemoveSlashAtEnd", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#gae425c7a614df9ec6ff1a246bfba924f0", null ],
+    [ "RenameFile", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga600d8ec5712c8b8350597c39368ea64f", null ],
+    [ "StatFile", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#gaf2a98540b3fa6538417288622eded26f", null ],
+    [ "TranslateSpecialProtocol", "d1/d40/addons_2kodi-addon-dev-kit_2include_2kodi_2_filesystem_8h.html#ga02bc64066031bc37d5aeb96cb4ee69d9", null ]
+];

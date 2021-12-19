@@ -1,0 +1,25 @@
+var namespacekodi_1_1addon =
+[
+    [ "CAddonBase", "d3/dc4/classkodi_1_1addon_1_1_c_addon_base.html", "d3/dc4/classkodi_1_1addon_1_1_c_addon_base" ],
+    [ "CInstanceAudioDecoder", "d1/dca/classkodi_1_1addon_1_1_c_instance_audio_decoder.html", "d1/dca/classkodi_1_1addon_1_1_c_instance_audio_decoder" ],
+    [ "CInstanceAudioEncoder", "dc/df9/classkodi_1_1addon_1_1_c_instance_audio_encoder.html", "dc/df9/classkodi_1_1addon_1_1_c_instance_audio_encoder" ],
+    [ "CInstanceImageDecoder", "df/dfc/classkodi_1_1addon_1_1_c_instance_image_decoder.html", "df/dfc/classkodi_1_1addon_1_1_c_instance_image_decoder" ],
+    [ "CInstanceInputStream", "dc/ded/classkodi_1_1addon_1_1_c_instance_input_stream.html", "dc/ded/classkodi_1_1addon_1_1_c_instance_input_stream" ],
+    [ "CInstancePeripheral", "d5/d4a/classkodi_1_1addon_1_1_c_instance_peripheral.html", "d5/d4a/classkodi_1_1addon_1_1_c_instance_peripheral" ],
+    [ "CInstanceScreensaver", "d6/d30/classkodi_1_1addon_1_1_c_instance_screensaver.html", "d6/d30/classkodi_1_1addon_1_1_c_instance_screensaver" ],
+    [ "CInstanceVFS", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s.html", "df/d37/classkodi_1_1addon_1_1_c_instance_v_f_s" ],
+    [ "CInstanceVideoCodec", "db/d5b/classkodi_1_1addon_1_1_c_instance_video_codec.html", "db/d5b/classkodi_1_1addon_1_1_c_instance_video_codec" ],
+    [ "CInstanceVisualization", "d0/d95/classkodi_1_1addon_1_1_c_instance_visualization.html", "d0/d95/classkodi_1_1addon_1_1_c_instance_visualization" ],
+    [ "DriverPrimitive", "de/d51/structkodi_1_1addon_1_1_driver_primitive.html", "de/d51/structkodi_1_1addon_1_1_driver_primitive" ],
+    [ "IAddonInstance", "d5/d35/classkodi_1_1addon_1_1_i_addon_instance.html", "d5/d35/classkodi_1_1addon_1_1_i_addon_instance" ],
+    [ "Joystick", "d5/d2c/classkodi_1_1addon_1_1_joystick.html", "d5/d2c/classkodi_1_1addon_1_1_joystick" ],
+    [ "JoystickFeature", "df/d58/classkodi_1_1addon_1_1_joystick_feature.html", "df/d58/classkodi_1_1addon_1_1_joystick_feature" ],
+    [ "Peripheral", "dc/d54/classkodi_1_1addon_1_1_peripheral.html", "dc/d54/classkodi_1_1addon_1_1_peripheral" ],
+    [ "PeripheralEvent", "d3/d6e/classkodi_1_1addon_1_1_peripheral_event.html", "d3/d6e/classkodi_1_1addon_1_1_peripheral_event" ],
+    [ "PeripheralVector", "db/dd4/classkodi_1_1addon_1_1_peripheral_vector.html", null ],
+    [ "DriverPrimitives", "da/d66/namespacekodi_1_1addon.html#aab63cb2b5efc9dfb710050bb1cf91295", null ],
+    [ "JoystickFeatures", "da/d66/namespacekodi_1_1addon.html#a408ac8798856f82ffe2f4bc07d22c70c", null ],
+    [ "Joysticks", "da/d66/namespacekodi_1_1addon.html#ae1dc2830c88dd3234fd559f744b4cbf2", null ],
+    [ "PeripheralEvents", "da/d66/namespacekodi_1_1addon.html#a30d415c8b629acf51ad65c023549dc2e", null ],
+    [ "Peripherals", "da/d66/namespacekodi_1_1addon.html#a6f70fd72b7ad35d7fc96d9412993e3e4", null ]
+];

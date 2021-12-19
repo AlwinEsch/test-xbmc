@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['langformats_0',['LangFormats',['../de/dac/group__cpp__kodi___defs.html#gaade094c6e3d0517af75765ce27749949',1,'General.h']]],
+  ['languageinvokerptr_1',['LanguageInvokerPtr',['../d9/dce/_i_language_invoker_8h.html#aaeabc30ad0d2fcd5d1037280fbd49455',1,'ILanguageInvoker.h']]],
+  ['languageresourceptr_2',['LanguageResourcePtr',['../d9/de3/_lang_info_8h.html#a170c408f732449b0d80b7bb7de4298f7',1,'LangInfo.h']]],
+  ['large_5finteger_3',['LARGE_INTEGER',['../d0/dea/linux_2_platform_defs_8h.html#a9bf80943e02f031c99d510a40a6d52e6',1,'PlatformDefs.h']]],
+  ['lcentry_4',['LCENTRY',['../da/d08/_lang_code_expander_8cpp.html#ace301c3e670959c5417f7d6e01a44d12',1,'LangCodeExpander.cpp']]],
+  ['listelement_5',['ListElement',['../d2/da9/_d_v_d_subtitle_line_collection_8h.html#a757d22ed44cb2c6687c74520ff3fb56c',1,'DVDSubtitleLineCollection.h']]],
+  ['listitemptr_6',['ListItemPtr',['../df/ded/namespacekodi_1_1gui.html#ab9c8c87a4243c0f8bf7697cdabfc3b64',1,'kodi::gui']]],
+  ['loadedlist_7',['LoadedList',['../d6/df2/_dll_loader_8h.html#a6c0dc7ae98251c56088532ed593de5b1',1,'DllLoader.h']]],
+  ['lookupmap_8',['LookupMap',['../dc/d0d/class_c_g_u_i_control_lookup.html#a6a979976851f62a77364f5ab095f1204',1,'CGUIControlLookup']]],
+  ['lpdirect3dpalette8_9',['LPDIRECT3DPALETTE8',['../d0/d7f/gui3d_8h.html#af93ffcbc9f5794a9c149a61a11a566d7',1,'gui3d.h']]],
+  ['lpfiletime_10',['LPFILETIME',['../d0/dea/linux_2_platform_defs_8h.html#a9485d44f5ce5d50f975059097486a110',1,'PlatformDefs.h']]],
+  ['lphandle_11',['LPHANDLE',['../d1/d91/_x_handle_public_8h.html#adffcb6a46d1efbab924dd8515ad35f82',1,'XHandlePublic.h']]],
+  ['lpmemorystatusex_12',['LPMEMORYSTATUSEX',['../d0/dea/linux_2_platform_defs_8h.html#a823130494f3e79120b8b181239a80419',1,'PlatformDefs.h']]],
+  ['lpsystemtime_13',['LPSYSTEMTIME',['../d0/dea/linux_2_platform_defs_8h.html#a7ec46b8d31bb93b3365a79598d4ef352',1,'PlatformDefs.h']]],
+  ['lpthread_5fstart_5froutine_14',['LPTHREAD_START_ROUTINE',['../d0/dea/linux_2_platform_defs_8h.html#a4ee4e06d165d24f663378dab76b15b0a',1,'PlatformDefs.h']]],
+  ['lptime_5fzone_5finformation_15',['LPTIME_ZONE_INFORMATION',['../d0/dea/linux_2_platform_defs_8h.html#a13a5a52051d9469dd08084937a9a6e27',1,'PlatformDefs.h']]],
+  ['lpwin32_5ffind_5fdata_16',['LPWIN32_FIND_DATA',['../d0/dea/linux_2_platform_defs_8h.html#a3cc0cd80f06705a133acf0f5aba8f0ce',1,'PlatformDefs.h']]]
+];

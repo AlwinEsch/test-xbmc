@@ -1,0 +1,26 @@
+var class_c_win_system_amlogic =
+[
+    [ "CWinSystemAmlogic", "dd/d5f/class_c_win_system_amlogic.html#acb7f68d1abfc2107b35830781b288f18", null ],
+    [ "~CWinSystemAmlogic", "dd/d5f/class_c_win_system_amlogic.html#a191f5ca8630352ba800ecbffc5f96af7", null ],
+    [ "CreateNewWindow", "dd/d5f/class_c_win_system_amlogic.html#a755ea43a7676129b0c64f10c6af0a421", null ],
+    [ "DestroyWindow", "dd/d5f/class_c_win_system_amlogic.html#a6a1a40eecb7e7c92e0e71cceb0040dcc", null ],
+    [ "DestroyWindowSystem", "dd/d5f/class_c_win_system_amlogic.html#a6718d4dd239c13d209e77d4141aa6e68", null ],
+    [ "Hide", "dd/d5f/class_c_win_system_amlogic.html#a968ca277e1c684e94382527bb80b0dbb", null ],
+    [ "InitWindowSystem", "dd/d5f/class_c_win_system_amlogic.html#afb344c4ddf73061d011999b358772992", null ],
+    [ "Register", "dd/d5f/class_c_win_system_amlogic.html#a0077533328b27aad884a4d3d0f864954", null ],
+    [ "Show", "dd/d5f/class_c_win_system_amlogic.html#a6c5c0f3f8aceb9a6d362aa894907cf8e", null ],
+    [ "Unregister", "dd/d5f/class_c_win_system_amlogic.html#adae7052981165469cd90682105675758", null ],
+    [ "UpdateResolutions", "dd/d5f/class_c_win_system_amlogic.html#ae2889874f9fa2a790c28db05eeffca80", null ],
+    [ "m_delayDispReset", "dd/d5f/class_c_win_system_amlogic.html#a555c79320bc77554694ea37a3fd0d8fb", null ],
+    [ "m_displayHeight", "dd/d5f/class_c_win_system_amlogic.html#ad023a2ba6eb985fda31e8a578f0c03f7", null ],
+    [ "m_displayWidth", "dd/d5f/class_c_win_system_amlogic.html#ae6cb404df0737ec8c71aa5f252fe946c", null ],
+    [ "m_dispResetTimer", "dd/d5f/class_c_win_system_amlogic.html#a9e3800506f7057d823590446c143f1ad", null ],
+    [ "m_framebuffer_name", "dd/d5f/class_c_win_system_amlogic.html#ac0fe76714ecab14af7062dc9e4684dea", null ],
+    [ "m_libinput", "dd/d5f/class_c_win_system_amlogic.html#a70d0cb270947d5caba0d6a23978579a2", null ],
+    [ "m_lirc", "dd/d5f/class_c_win_system_amlogic.html#a1f0e73cb648677db0c03dda59836d34a", null ],
+    [ "m_nativeDisplay", "dd/d5f/class_c_win_system_amlogic.html#a25c72176d9b4ebf9814de8b797ae7801", null ],
+    [ "m_nativeWindow", "dd/d5f/class_c_win_system_amlogic.html#aff3b31313a48a822d410c45fa24313e9", null ],
+    [ "m_resources", "dd/d5f/class_c_win_system_amlogic.html#a2550fb563cca4a1b1dafea5cabd94a79", null ],
+    [ "m_resourceSection", "dd/d5f/class_c_win_system_amlogic.html#ad1d1a5a2f3338eb5c74df44cf901ded2", null ],
+    [ "m_stereo_mode", "dd/d5f/class_c_win_system_amlogic.html#ac9bf43afd42f51a0c502d6cffd324970", null ]
+];

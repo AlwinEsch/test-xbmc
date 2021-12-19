@@ -1,0 +1,25 @@
+var class_p_v_r_1_1_c_p_v_r_recordings =
+[
+    [ "~CPVRRecordings", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a8a61c67ff50dd80123631407e012e03a", null ],
+    [ "Delete", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a27c9df7fa75beb6a0ef1b4d0d7d50dbd", null ],
+    [ "DeleteAllRecordingsFromTrash", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#afa8a998224d0401c1f0310eaaab48cd8", null ],
+    [ "GetAll", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a9cdf2edf0b76ffb18215d80fe871ddb6", null ],
+    [ "GetById", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a96d7f0058d10f917f398f4f32d51df4a", null ],
+    [ "GetById", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a2662dc9f39d552256509f107c475c378", null ],
+    [ "GetByPath", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a8700a1bcb86dba78a0f29e6080ad48cc", null ],
+    [ "GetNumRadioRecordings", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a5cfdd4e1607a9b0993d932cc21e4f7f2", null ],
+    [ "GetNumTVRecordings", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a664aff518e618402689d5dea197f8fe6", null ],
+    [ "GetRecordingForEpgTag", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a898c8668bd32abba7b854e99d8c547d3", null ],
+    [ "HasDeletedRadioRecordings", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#aa53b1ae667d94f78989eb1f345e564b5", null ],
+    [ "HasDeletedTVRecordings", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#ae381a757f40e530625faa31b8afc0ec6", null ],
+    [ "IncrementRecordingsPlayCount", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#ae193a141b44d6298698463d6deb90385", null ],
+    [ "Load", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#ae4732b6fbfae6ddf720714fac637e77d", null ],
+    [ "MarkWatched", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#ad6b72e44449a313228d83251ef73b43f", null ],
+    [ "RenameRecording", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#aed68a5bc886739053ecf25e3e471894c", null ],
+    [ "ResetResumePoint", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a5472ce09a72e62ce24e668506e5c5058", null ],
+    [ "SetRecordingsPlayCount", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a5780aa3658fbac8e5eb5173b6fa13e25", null ],
+    [ "Undelete", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#ad8d8ab992ff471f2c0e640ea3003ca49", null ],
+    [ "Unload", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#aef8dc67ccc29fade4fa883269c62c7e0", null ],
+    [ "Update", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a1d1a8f02a4f0a1ce94f10cdc71e21081", null ],
+    [ "UpdateFromClient", "dc/dcf/class_p_v_r_1_1_c_p_v_r_recordings.html#a9bd3c384a4ec281a9d613548203ee458", null ]
+];

@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['_5f_5fattribute_5f_5f_0',['__attribute__',['../dd/d3f/struct____attribute____.html',1,'']]],
+  ['_5f_5fraw_5fread_5finfo_1',['__RAW_READ_INFO',['../d5/db9/struct_____r_a_w___r_e_a_d___i_n_f_o.html',1,'']]],
+  ['_5fbd_5ffile_2',['_BD_FILE',['../d3/d3a/struct___b_d___f_i_l_e.html',1,'']]],
+  ['_5fdlltrackinfo_3',['_DllTrackInfo',['../d7/d2e/struct___dll_track_info.html',1,'']]],
+  ['_5ffiletime_4',['_FILETIME',['../d8/d28/struct___f_i_l_e_t_i_m_e.html',1,'']]],
+  ['_5flarge_5finteger_5',['_LARGE_INTEGER',['../d2/de6/union___l_a_r_g_e___i_n_t_e_g_e_r.html',1,'']]],
+  ['_5floadedlist_6',['_LoadedList',['../d1/db8/struct___loaded_list.html',1,'']]],
+  ['_5fmemorystatusex_7',['_MEMORYSTATUSEX',['../d4/d96/struct___m_e_m_o_r_y_s_t_a_t_u_s_e_x.html',1,'']]],
+  ['_5fscsi_5fpass_5fthrough_8',['_SCSI_PASS_THROUGH',['../d5/de6/struct___s_c_s_i___p_a_s_s___t_h_r_o_u_g_h.html',1,'']]],
+  ['_5fscsi_5fpass_5fthrough_5fand_5fbuffers_9',['_SCSI_PASS_THROUGH_AND_BUFFERS',['../d4/dc4/struct___s_c_s_i___p_a_s_s___t_h_r_o_u_g_h___a_n_d___b_u_f_f_e_r_s.html',1,'']]],
+  ['_5fscsi_5fpass_5fthrough_5fdirect_10',['_SCSI_PASS_THROUGH_DIRECT',['../da/dbe/struct___s_c_s_i___p_a_s_s___t_h_r_o_u_g_h___d_i_r_e_c_t.html',1,'']]],
+  ['_5fscsi_5fpass_5fthrough_5fdirect_5fand_5fsense_5fbuffer_11',['_SCSI_PASS_THROUGH_DIRECT_AND_SENSE_BUFFER',['../db/d8f/struct___s_c_s_i___p_a_s_s___t_h_r_o_u_g_h___d_i_r_e_c_t___a_n_d___s_e_n_s_e___b_u_f_f_e_r.html',1,'']]],
+  ['_5fstati64_12',['_stati64',['../d9/d0c/struct__stati64.html',1,'']]],
+  ['_5fsystemtime_13',['_SYSTEMTIME',['../d3/d4a/struct___s_y_s_t_e_m_t_i_m_e.html',1,'']]],
+  ['_5ftime_5fzone_5finformation_14',['_TIME_ZONE_INFORMATION',['../d7/dd3/struct___t_i_m_e___z_o_n_e___i_n_f_o_r_m_a_t_i_o_n.html',1,'']]],
+  ['_5ftrackedfile_15',['_TrackedFile',['../d1/dec/struct___tracked_file.html',1,'']]],
+  ['_5fularge_5finteger_16',['_ULARGE_INTEGER',['../d1/d60/union___u_l_a_r_g_e___i_n_t_e_g_e_r.html',1,'']]],
+  ['_5fwdir_17',['_WDIR',['../d9/d00/struct___w_d_i_r.html',1,'']]],
+  ['_5fwdirent_18',['_wdirent',['../dd/d78/struct__wdirent.html',1,'']]],
+  ['_5fwin32_5ffind_5fdata_19',['_WIN32_FIND_DATA',['../df/d03/struct___w_i_n32___f_i_n_d___d_a_t_a.html',1,'']]],
+  ['_5fxinput_5fir_5fremote_20',['_XINPUT_IR_REMOTE',['../d2/d2b/struct___x_i_n_p_u_t___i_r___r_e_m_o_t_e.html',1,'']]]
+];

@@ -1,0 +1,15 @@
+var class_a_d_d_o_n_1_1_c_repository =
+[
+    [ "DirInfo", "db/dc2/struct_a_d_d_o_n_1_1_c_repository_1_1_dir_info.html", "db/dc2/struct_a_d_d_o_n_1_1_c_repository_1_1_dir_info" ],
+    [ "ResolveResult", "d2/da7/struct_a_d_d_o_n_1_1_c_repository_1_1_resolve_result.html", "d2/da7/struct_a_d_d_o_n_1_1_c_repository_1_1_resolve_result" ],
+    [ "DirList", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#aa426b96cd04d2964814a7732778e87b9", null ],
+    [ "FetchStatus", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#abae59e7b201b7341f27a7c09f7b8c201", [
+      [ "STATUS_OK", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#abae59e7b201b7341f27a7c09f7b8c201a043d9a91e48be2bf2a6ffd907f4cf8b6", null ],
+      [ "STATUS_NOT_MODIFIED", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#abae59e7b201b7341f27a7c09f7b8c201aa2b0f11faa887b83b05064f438b5d9af", null ],
+      [ "STATUS_ERROR", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#abae59e7b201b7341f27a7c09f7b8c201aa4db5d032e47143058ac49167e6c84f6", null ]
+    ] ],
+    [ "CRepository", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#a654f307f89c83a3ffcd4ff964e4c82d0", null ],
+    [ "CRepository", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#a4453dc30be115b677b22aee49ba3f9b8", null ],
+    [ "FetchIfChanged", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#ac4d6e5685db856eb270cbfb63b97c3ae", null ],
+    [ "ResolvePathAndHash", "dd/dcb/class_a_d_d_o_n_1_1_c_repository.html#ad04d51bd1f0ab9ff4ecba00a2585ec41", null ]
+];
