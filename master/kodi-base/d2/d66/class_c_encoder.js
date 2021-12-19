@@ -1,0 +1,27 @@
+var class_c_encoder =
+[
+    [ "CEncoder", "d2/d66/class_c_encoder.html#ae835227168b126a6872212905a953765", null ],
+    [ "~CEncoder", "d2/d66/class_c_encoder.html#aa6b7126b6e24bd115348fa6243756f47", null ],
+    [ "CloseEncode", "d2/d66/class_c_encoder.html#a398cba20ca90808f61c47eb930c75b70", null ],
+    [ "Encode", "d2/d66/class_c_encoder.html#a9c5700d9fc170014b5013826956d8668", null ],
+    [ "FileClose", "d2/d66/class_c_encoder.html#a601e3fb4bd5608601242ac017da24e4b", null ],
+    [ "FileCreate", "d2/d66/class_c_encoder.html#ad11092c35ae06188618ed914205cb82f", null ],
+    [ "FileSeek", "d2/d66/class_c_encoder.html#afd928f1e62c490cc22fb9ff9664ba9ed", null ],
+    [ "FileWrite", "d2/d66/class_c_encoder.html#abfc831160f57b05fe9e4f05b2b460131", null ],
+    [ "FlushStream", "d2/d66/class_c_encoder.html#a2148030fea4a739ebfbd59d2af64713b", null ],
+    [ "Init", "d2/d66/class_c_encoder.html#ac4b8fb4da09b8765ef6610ecf109d735", null ],
+    [ "SetAlbum", "d2/d66/class_c_encoder.html#a3f45efd56ff9fe1dea5c15bb74ccc4ca", null ],
+    [ "SetAlbumArtist", "d2/d66/class_c_encoder.html#a2aa63155497861a0d69c14a4a2bbf55f", null ],
+    [ "SetArtist", "d2/d66/class_c_encoder.html#afdd32ffc8e5e0afcb8dce3a9723c704b", null ],
+    [ "SetComment", "d2/d66/class_c_encoder.html#adf936bcfd3c2b62960a1fb949f3a6f24", null ],
+    [ "SetGenre", "d2/d66/class_c_encoder.html#a7ab1de02a9ea86d6e6b3c32c3573265b", null ],
+    [ "SetTitle", "d2/d66/class_c_encoder.html#aa4d003f044e83760e37aea1332f2ccde", null ],
+    [ "SetTrack", "d2/d66/class_c_encoder.html#a2e7eb1ea2371dd44f0bccecd78d110b9", null ],
+    [ "SetTrackLength", "d2/d66/class_c_encoder.html#a8ddfa5d39dfcb5014a601e98d1632599", null ],
+    [ "SetYear", "d2/d66/class_c_encoder.html#a262783d2b5c912d38a546630b5a489b5", null ],
+    [ "WriteStream", "d2/d66/class_c_encoder.html#a200e41243f4372c75de188bed9188adf", null ],
+    [ "m_btWriteBuffer", "d2/d66/class_c_encoder.html#a996384cbba97e8d888c53d45c70767e1", null ],
+    [ "m_dwWriteBufferPointer", "d2/d66/class_c_encoder.html#a5f3eefd44ae102dc51c18f448079fcab", null ],
+    [ "m_file", "d2/d66/class_c_encoder.html#abaad9c6db4426470f2b77dae18d0b9fb", null ],
+    [ "m_impl", "d2/d66/class_c_encoder.html#a95af44955d69ba9654381991b9e29a2e", null ]
+];
