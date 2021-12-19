@@ -43,7 +43,7 @@ struct IRenderHelper;
 ///
 /// This is basically a simple pointer which has to be changed to the desired
 /// format at the corresponding places using <b>`static_cast<...>(...)`</b>.
-///
+/// Test.
 ///
 ///-------------------------------------------------------------------------
 ///
