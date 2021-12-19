@@ -39,7 +39,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          destination_dir: ${{ steps.extract_branch.outputs.branch }}/kodi-addon-dev-kit
+          destination_dir: ${{ steps.extract_branch.outputs.branch }}/kodi-dev-kit
           publish_dir: "./xbmc/addons/kodi-addon-dev-kit/docs/html"
 
       - name: Deploy Kodi Base
