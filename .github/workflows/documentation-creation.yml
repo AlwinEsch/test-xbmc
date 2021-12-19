@@ -9,7 +9,7 @@ on:
     branches: [ master, main, Matrix, Leia ]
 
 jobs:
-  upload_addons:
+  build:
     if: github.repository == 'AlwinEsch/test-xbmc'
     runs-on: ubuntu-latest
     concurrency:
@@ -23,6 +23,11 @@ jobs:
       - name: Extract branch name
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
+
+      - name: Set target dirs
+        run: |
+             sed -i 's/.*OUTPUT_DIRECTORY.*=.*/OUTPUT_DIRECTORY = ..\/..\/..\/..\/build\/kodi-dev-kit/' ./xbmc/addons/kodi-dev-kit/doxygen/Doxyfile
+             sed -i 's/.*OUTPUT_DIRECTORY.*=.*/OUTPUT_DIRECTORY = ..\/..\/build\/kodi-base/' ./docs/doxygen/Doxyfile.doxy
 
       - name: Doxygen Action kodi-dev-kit
         uses: mattnotmitt/doxygen-action@v1.1.0
@@ -30,42 +35,17 @@ jobs:
           doxyfile-path: "./Doxyfile"
           working-directory: "./xbmc/addons/kodi-dev-kit/doxygen"
 
-      - name: Deploy kodi-dev-kit
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: AlwinEsch/docs.kodi.tv
-          publish_branch: main
-          destination_dir: ${{ steps.extract_branch.outputs.branch }}/kodi-dev-kit
-          publish_dir: "./xbmc/addons/kodi-dev-kit/docs/html"
-
-  upload_base:
-    if: github.repository == 'AlwinEsch/test-xbmc'
-    runs-on: ubuntu-latest
-    needs: [ upload_addons ]
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.2
-        with:
-          fetch-depth: 0
-
-      - name: Extract branch name
-        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-        id: extract_branch
-
       - name: Doxygen Action Kodi Base
         uses: mattnotmitt/doxygen-action@v1.1.0
         with:
           doxyfile-path: "./Doxyfile.doxy"
           working-directory: "./docs/doxygen"
 
-      - name: Deploy Kodi Base
+      - name: Deploy kodi-dev-kit
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: AlwinEsch/docs.kodi.tv
           publish_branch: main
-          destination_dir: ${{ steps.extract_branch.outputs.branch }}/kodi-base
-          publish_dir: "./docs/html"
+          destination_dir: ${{ steps.extract_branch.outputs.branch }}
+          publish_dir: "./build"
