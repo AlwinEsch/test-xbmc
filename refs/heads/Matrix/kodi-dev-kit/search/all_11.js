@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['h264codecprofilebaseline_0',['H264CodecProfileBaseline',['../group__cpp__kodi__addon__inputstream___defs___stream_encryption___s_t_r_e_a_m_c_o_d_e_c___p_r_o_f_i_l_e.html#gga0736c500ed84b4d79f616d573ad7994ead5ca3574182f82edbdf9a4d2452951b2',1,'stream_codec.h']]],
+  ['h264codecprofileextended_1',['H264CodecProfileExtended',['../group__cpp__kodi__addon__inputstream___defs___stream_encryption___s_t_r_e_a_m_c_o_d_e_c___p_r_o_f_i_l_e.html#gga0736c500ed84b4d79f616d573ad7994ea24ff8bccb06aecc8b11abc87bb84636b',1,'stream_codec.h']]],
+  ['h264codecprofilehigh_2',['H264CodecProfileHigh',['../group__cpp__kodi__addon__inputstream___defs___stream_encryption___s_t_r_e_a_m_c_o_d_e_c___p_r_o_f_i_l_e.html#gga0736c500ed84b4d79f616d573ad7994eaf8f97dd2561ffd69ffdf5bbc88b8c923',1,'stream_codec.h']]],
+  ['h264codecprofilehigh10_3',['H264CodecProfileHigh10',['../group__cpp__kodi__addon__inputstream___defs___stream_encryption___s_t_r_e_a_m_c_o_d_e_c___p_r_o_f_i_l_e.html#gga0736c500ed84b4d79f616d573ad7994ea2d7965c9263fe7daafacee35dc25ac95',1,'stream_codec.h']]],
+  ['h264codecprofilehigh422_4',['H264CodecProfileHigh422',['../group__cpp__kodi__addon__inputstream___defs___stream_encryption___s_t_r_e_a_m_c_o_d_e_c___p_r_o_f_i_l_e.html#gga0736c500ed84b4d79f616d573ad7994ea3d35b1ee6245829d7bde12797d5bb17e',1,'stream_codec.h']]],
+  ['h264codecprofilehigh444predictive_5',['H264CodecProfileHigh444Predictive',['../group__cpp__kodi__addon__inputstream___defs___stream_encryption___s_t_r_e_a_m_c_o_d_e_c___p_r_o_f_i_l_e.html#gga0736c500ed84b4d79f616d573ad7994eac003f35d6504d1064b237dde3c6f45a1',1,'stream_codec.h']]],
+  ['h264codecprofilemain_6',['H264CodecProfileMain',['../group__cpp__kodi__addon__inputstream___defs___stream_encryption___s_t_r_e_a_m_c_o_d_e_c___p_r_o_f_i_l_e.html#gga0736c500ed84b4d79f616d573ad7994ea901bbda542cc6c2cafedb91c151c3709',1,'stream_codec.h']]],
+  ['hasfeature_7',['HasFeature',['../group__cpp__kodi__addon__game___input_operations.html#ga0caf17539e0b322620d9a2762f20e63d',1,'kodi::addon::CInstanceGame']]],
+  ['hat_5fcount_8',['hat_count',['../struct_j_o_y_s_t_i_c_k___i_n_f_o.html#ab670d38c43e4b0f85833ec5d7a06b3e3',1,'JOYSTICK_INFO']]],
+  ['hatcount_9',['HatCount',['../group__cpp__kodi__addon__peripheral___defs___joystick___joystick.html#ga31242db66493390e8b073137f77b65f7',1,'kodi::addon::Joystick']]],
+  ['hatdirection_10',['HatDirection',['../group__cpp__kodi__addon__peripheral___defs___joystick___driver_primitive.html#ga6b10ba74212538ebadd20e22e59c8ed2',1,'kodi::addon::DriverPrimitive']]],
+  ['hatstate_11',['HatState',['../group__cpp__kodi__addon__peripheral___defs___peripheral___peripheral_event.html#ga198197e37ab3b67cb3be06e194c49c51',1,'kodi::addon::PeripheralEvent']]],
+  ['height_12',['Height',['../group__cpp__kodi__addon__screensaver___c_b.html#ga40afc903300fe3a6804393874e257170',1,'kodi::addon::CInstanceScreensaver::Height()'],['../group__cpp__kodi__addon__visualization___c_b.html#ga40afc903300fe3a6804393874e257170',1,'kodi::addon::CInstanceVisualization::Height()']]],
+  ['height_13',['height',['../group__cpp__kodi__addon__videocodec___defs___v_i_d_e_o_c_o_d_e_c___p_i_c_t_u_r_e.html#a6ad4f820ce4e75cda0686fcaad5168be',1,'VIDEOCODEC_PICTURE::height()'],['../group__cpp__kodi__addon__game___defs___video_stream.html#ab2e78c61905b4419fcc7b4cfc500fe85',1,'game_stream_video_packet::height()']]],
+  ['httpheader_14',['HttpHeader',['../classkodi_1_1vfs_1_1_http_header.html#a9772cb05c9013b372525f553b98d01a5',1,'kodi::vfs::HttpHeader::HttpHeader()'],['../classkodi_1_1vfs_1_1_http_header.html',1,'HttpHeader']]],
+  ['hwcontextdestroy_15',['HwContextDestroy',['../group__cpp__kodi__addon__game___hardware_rendering.html#ga2ae79c17e174f773ae0a228faa475400',1,'kodi::addon::CInstanceGame']]],
+  ['hwcontextreset_16',['HwContextReset',['../group__cpp__kodi__addon__game___hardware_rendering.html#ga4e62b5e5f8c681379c267c21d8e68969',1,'kodi::addon::CInstanceGame']]],
+  ['hwgetprocaddress_17',['HwGetProcAddress',['../group__cpp__kodi__addon__game___hardware_rendering.html#gae56ab5b89b821a5e84dc163fe424c8f7',1,'kodi::addon::CInstanceGame']]]
+];
