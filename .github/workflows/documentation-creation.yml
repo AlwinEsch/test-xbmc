@@ -39,7 +39,8 @@ jobs:
       - name: Deploy kodi-dev-kit
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: AlwinEsch/docs.kodi.tv
           publish_branch: gh-pages
           destination_dir: ${{ steps.extract_branch.outputs.branch }}/kodi-dev-kit
           publish_dir: "./xbmc/addons/kodi-dev-kit/docs/html"
@@ -47,7 +48,8 @@ jobs:
       - name: Deploy Kodi Base
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: AlwinEsch/docs.kodi.tv
           publish_branch: gh-pages
           destination_dir: ${{ steps.extract_branch.outputs.branch }}/kodi-base
           publish_dir: "./docs/html"
