@@ -7,9 +7,6 @@ name: Doxygen Action
 on:
   push:
     branches: [ master, main, Matrix, Leia ]
-    paths:
-      - 'xbmc/addons/kodi-dev-kit/**'
-      - 'xbmc/interfaces/**'
 
 jobs:
   build:
