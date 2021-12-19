@@ -23,7 +23,7 @@ namespace gui
 //==============================================================================
 /// @defgroup cpp_kodi_gui_windows_window_Defs Definitions, structures and enumerators
 /// @ingroup cpp_kodi_gui_windows_window
-/// @brief **Library definition values**\n
+/// @brief **Library definition values + Test**\n
 /// Additional values, structures and things that are used in the Window class.
 ///
 /// ------------------------------------------------------------------------
