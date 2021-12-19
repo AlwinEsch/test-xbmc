@@ -26,6 +26,7 @@ jobs:
 
       - name: Set target dirs
         run: |
+             mkdir ./build
              sed -i 's/.*OUTPUT_DIRECTORY.*=.*/OUTPUT_DIRECTORY = ..\/..\/..\/..\/build\/kodi-dev-kit/' ./xbmc/addons/kodi-dev-kit/doxygen/Doxyfile
              sed -i 's/.*OUTPUT_DIRECTORY.*=.*/OUTPUT_DIRECTORY = ..\/..\/build\/kodi-base/' ./docs/doxygen/Doxyfile.doxy
 
