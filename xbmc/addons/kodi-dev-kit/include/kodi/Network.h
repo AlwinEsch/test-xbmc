@@ -124,9 +124,9 @@ inline std::string ATTRIBUTE_HIDDEN GetHostname()
 ///
 /// **Example:**
 /// ~~~~~~~~~~~~~{.py}
-/// ..
+/// ...
 /// std::string agent = kodi::network::GetUserAgent()
-/// ..
+/// ...
 /// ~~~~~~~~~~~~~
 ///
 /// example output:
