@@ -427,7 +427,7 @@ private:
 ///   return ADDON_STATUS_UNKNOWN;
 /// }
 ///
-/// ADDONCREATOR(CMyAddon)
+/// ADDONCREATOR(CMyAddon);
 /// ~~~~~~~~~~~~~
 ///
 /// The destruction of the example class `CMyAudioDecoder` is called from
