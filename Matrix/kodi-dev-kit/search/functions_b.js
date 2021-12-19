@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['label_0',['Label',['../group__cpp__kodi__vfs___c_dir_entry.html#gae8f364092ba4345ba51c753afeb6198a',1,'kodi::vfs::CDirEntry']]],
+  ['left_1',['Left',['../group__cpp__kodi__tools___string_utils___edit_control.html#ga95ec927b1dead43f08cebed75a946da4',1,'kodi::tools::StringUtils']]],
+  ['lengthlivestream_2',['LengthLiveStream',['../group__cpp__kodi__addon__pvr___streams___t_v.html#gafd4f8031ab06ba3597a6dd7b06aba08e',1,'kodi::addon::CInstancePVRClient']]],
+  ['lengthrecordedstream_3',['LengthRecordedStream',['../group__cpp__kodi__addon__pvr___streams___recording.html#ga785867c4ee582a25d43525d1d3cddb6d',1,'kodi::addon::CInstancePVRClient']]],
+  ['lengthstream_4',['LengthStream',['../group__cpp__kodi__addon__inputstream___read.html#ga6c77ac06f595e639ac95ce93f88175be',1,'kodi::addon::CInstanceInputStream']]],
+  ['listdir_5',['listdir',['../group__python__xbmcvfs.html#ga6fdd93a2195f65e549abb759bc151afc',1,'ModuleXbmcvfs.h']]],
+  ['listitem_6',['ListItem',['../group__python__xbmcgui__listitem.html#gaa45d3bbf41b166e9eeb02cf6bb55919c',1,'XBMCAddon::xbmcgui::ListItem']]],
+  ['load_7',['load',['../group__python___play_list.html#ga58df00a466baca2469ad8407c5534377',1,'XBMCAddon::xbmc::PlayList']]],
+  ['loaddll_8',['LoadDll',['../group__cpp__kodi__tools___c_dll_helper.html#ga4aedb3bb425d2cf810d2f98d4ddf32c3',1,'kodi::tools::CDllHelper']]],
+  ['loadgame_9',['LoadGame',['../group__cpp__kodi__addon__game___operation.html#gae57f40435a8996393b3b151586ca8d19',1,'kodi::addon::CInstanceGame']]],
+  ['loadgamespecial_10',['LoadGameSpecial',['../group__cpp__kodi__addon__game___operation.html#ga024f7ff502652263acdc28d5086e0ca6',1,'kodi::addon::CInstanceGame']]],
+  ['loadimagefrommemory_11',['LoadImageFromMemory',['../group__cpp__kodi__addon__imagedecoder.html#ga8b45c32858ccb4a32f874abe2ca2c409',1,'kodi::addon::CInstanceImageDecoder']]],
+  ['loadpreset_12',['LoadPreset',['../group__cpp__kodi__addon__visualization.html#ga3d8800ff2acd0c2f242459803cacd3a2',1,'kodi::addon::CInstanceVisualization']]],
+  ['loadshaderfiles_13',['LoadShaderFiles',['../group__cpp__kodi__gui__helpers__gl___c_shader_program.html#ga4f8823be999af29c68f6d1b4c9a6f2ea',1,'kodi::gui::gl::CShaderProgram']]],
+  ['loadstandalone_14',['LoadStandalone',['../group__cpp__kodi__addon__game___operation.html#ga88b7876256d63c652dd8743c255380f9',1,'kodi::addon::CInstanceGame']]],
+  ['lock_15',['Lock',['../group__cpp__kodi__gui__general.html#gade957f0fbb1d6b29f56235d4c2ec4601',1,'kodi::gui']]],
+  ['lockinggetnextavailablewindowid_16',['lockingGetNextAvailableWindowId',['../class_x_b_m_c_addon_1_1xbmcgui_1_1_window_x_m_l.html#a507ab35d41a0baaa7a32b16ca78aee24',1,'XBMCAddon::xbmcgui::WindowXML']]],
+  ['lockpreset_17',['LockPreset',['../group__cpp__kodi__addon__visualization.html#ga0396c3e1569480032721836b7e139624',1,'kodi::addon::CInstanceVisualization']]],
+  ['log_18',['log',['../group__python__xbmc.html#ga3cd3eff2195727144ad6fbabd4744961',1,'ModuleXbmc.h']]],
+  ['log_19',['Log',['../group__cpp__kodi.html#gaaa1f205f9375cd086229a1455ede11cc',1,'kodi']]]
+];
