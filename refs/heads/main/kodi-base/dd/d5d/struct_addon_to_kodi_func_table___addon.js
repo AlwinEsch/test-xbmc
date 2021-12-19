@@ -1,0 +1,25 @@
+var struct_addon_to_kodi_func_table___addon =
+[
+    [ "addon_log_msg", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#ae9ab111a1d7f111908f8b4a297f38279", null ],
+    [ "free_string", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a8daa1c7633bf9dcb5513715c040b1f6d", null ],
+    [ "free_string_array", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#ad773b8297dae74ba5b7eb004517888ae", null ],
+    [ "get_addon_path", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#ac1b9e38246493dd8326496251c2848f4", null ],
+    [ "get_base_user_path", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a4c7b48a2bc2d2d458adccc58d9eb1a9f", null ],
+    [ "get_interface", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a4a96847cf494f6ea3ca2aa96abcfdfd9", null ],
+    [ "get_setting_bool", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#ab30a17b16f6a6f52b60bf438ac8f0cbc", null ],
+    [ "get_setting_float", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a7f431c18dc0456f8a30b014b85fa5df5", null ],
+    [ "get_setting_int", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a602faaa33874c9a3e42cd8f65957e947", null ],
+    [ "get_setting_string", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a3d981431d290b93689e40e074380fd65", null ],
+    [ "get_type_version", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a0befe5197fd6ee7875105191aac6f8a8", null ],
+    [ "is_setting_using_default", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a286b251cfa1cf330fbad239ecfa06f2c", null ],
+    [ "kodi", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a418deab62175dcd3ad2224e08debcec6", null ],
+    [ "kodi_audioengine", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a0fd911b1decffd5176ad6747f1f3b50e", null ],
+    [ "kodi_filesystem", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a968a7bbec80f0dbe66ec63554a870ca8", null ],
+    [ "kodi_gui", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a0bc78496ed67f2bb5b2a083b03ac1dd1", null ],
+    [ "kodi_network", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a5b291e5941801938f70c86c42a95ee33", null ],
+    [ "kodiBase", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a7bdd754e01e699d67d38c0335d5d8468", null ],
+    [ "set_setting_bool", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a629edc83bc6bc3636f798cb82089964d", null ],
+    [ "set_setting_float", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#a3fb02fb734d456e6954a9ecf8eaec297", null ],
+    [ "set_setting_int", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#aea8afef44616bebc417291e797f97efb", null ],
+    [ "set_setting_string", "dd/d5d/struct_addon_to_kodi_func_table___addon.html#ad00766a0114658acbe3987153d992d3e", null ]
+];

@@ -1,0 +1,28 @@
+var struct_i_p_t_c_info__t =
+[
+    [ "Author", "dd/dc5/struct_i_p_t_c_info__t.html#aa4d9a8ab0c12d0b2adc2d3170bec6e39", null ],
+    [ "Byline", "dd/dc5/struct_i_p_t_c_info__t.html#ac1f7bb1b7de640903c7397d6bdf36fa6", null ],
+    [ "BylineTitle", "dd/dc5/struct_i_p_t_c_info__t.html#af18b53fa9f30b095203bdf64d51cdbd8", null ],
+    [ "Caption", "dd/dc5/struct_i_p_t_c_info__t.html#aea89946ce1ae31d426e03a19a703b99f", null ],
+    [ "Category", "dd/dc5/struct_i_p_t_c_info__t.html#a3b15303e3db7e42c9bf2957288d3e54a", null ],
+    [ "City", "dd/dc5/struct_i_p_t_c_info__t.html#a628259b642edec0a0fb2149ee2f15ffb", null ],
+    [ "CopyrightNotice", "dd/dc5/struct_i_p_t_c_info__t.html#ae16e04b1e1192e7de797e21a33c0d662", null ],
+    [ "Country", "dd/dc5/struct_i_p_t_c_info__t.html#a72967de62c3f03422cc5b0b50a9487a5", null ],
+    [ "CountryCode", "dd/dc5/struct_i_p_t_c_info__t.html#ab3aa707f62fd814bfba233ee3226a90f", null ],
+    [ "Credit", "dd/dc5/struct_i_p_t_c_info__t.html#a4c713f7b92ad0cd4d26d77a35871bcb3", null ],
+    [ "Date", "dd/dc5/struct_i_p_t_c_info__t.html#a6309425948c2b864cab247cbdef8f29f", null ],
+    [ "Headline", "dd/dc5/struct_i_p_t_c_info__t.html#a31d5a0b1ed06e0c370a37b593de8cb2f", null ],
+    [ "ImageType", "dd/dc5/struct_i_p_t_c_info__t.html#ae670e88d4d7768bf76253c2af7e2eb2f", null ],
+    [ "Keywords", "dd/dc5/struct_i_p_t_c_info__t.html#aa8511e8ab305e780b3c90439e73a27ab", null ],
+    [ "ObjectName", "dd/dc5/struct_i_p_t_c_info__t.html#a097ec51f827b86f7d1cd2f929019ba74", null ],
+    [ "RecordVersion", "dd/dc5/struct_i_p_t_c_info__t.html#a3f44d67be6c83eb36495f848de26d4db", null ],
+    [ "ReferenceService", "dd/dc5/struct_i_p_t_c_info__t.html#ab0d0513e436578b076cb16a0785435ff", null ],
+    [ "Source", "dd/dc5/struct_i_p_t_c_info__t.html#aed6b2ea83b348c64110c7fdf553b2083", null ],
+    [ "SpecialInstructions", "dd/dc5/struct_i_p_t_c_info__t.html#a5cb7eb07df2c5f90c8a86003797a6147", null ],
+    [ "State", "dd/dc5/struct_i_p_t_c_info__t.html#abc4144d35c2433a6a75166a0ab28d9d3", null ],
+    [ "SubLocation", "dd/dc5/struct_i_p_t_c_info__t.html#abe462a8081dc73dfaf5df2ac3b1a33ee", null ],
+    [ "SupplementalCategories", "dd/dc5/struct_i_p_t_c_info__t.html#a1222ec0f64b164b7954f343214f08087", null ],
+    [ "TimeCreated", "dd/dc5/struct_i_p_t_c_info__t.html#aaa95f344c41485fbe398e0dba9811630", null ],
+    [ "TransmissionReference", "dd/dc5/struct_i_p_t_c_info__t.html#aae11f11e502c927958d62ab7b064a1d4", null ],
+    [ "Urgency", "dd/dc5/struct_i_p_t_c_info__t.html#a8ca12f070e15866bb1e296095b31c2c3", null ]
+];
