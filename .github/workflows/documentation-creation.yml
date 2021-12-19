@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    outputs:
+      branch: ${{ steps.extract_branch.outputs.branch }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.2
@@ -46,7 +48,7 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: AlwinEsch/docs.kodi.tv
           publish_branch: main
-          destination_dir: ${{ needs.build.steps.extract_branch.outputs.branch }}/kodi-dev-kit
+          destination_dir: ${{ needs.build.outputs.branch }}/kodi-dev-kit
           publish_dir: "./xbmc/addons/kodi-dev-kit/docs/html"
 
   upload_base:
@@ -59,5 +61,5 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: AlwinEsch/docs.kodi.tv
           publish_branch: main
-          destination_dir: ${{ needs.build.steps.extract_branch.outputs.branch }}/kodi-base
+          destination_dir: ${{ needs.build.outputs.branch }}/kodi-base
           publish_dir: "./docs/html"
